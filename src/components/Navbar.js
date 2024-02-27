@@ -96,7 +96,7 @@ function ResponsiveAppBar() {
                   sx={{ bgcolor: controls.deepPurple[500], cursor: 'pointer' }}
                   onClick={handleUserMenuClick}
                 >
-                  dl
+                  
                 </controls.Avatar>
                 {isTokenAvailable && (
                   <controls.Menu
