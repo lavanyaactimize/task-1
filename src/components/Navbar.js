@@ -97,9 +97,12 @@ function ResponsiveAppBar() {
                   onClick={handleUserMenuClick}
                 >
                   
+<<<<<<< HEAD
 
 
                   
+=======
+>>>>>>> b7d76710b264ac38d3399a387eccf8a591622d49
                 </controls.Avatar>
                 {isTokenAvailable && (
                   <controls.Menu
